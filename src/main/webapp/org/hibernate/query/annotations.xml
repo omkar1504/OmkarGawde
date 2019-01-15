@@ -1,0 +1,5 @@
+<root>
+    <item name='org.hibernate.query.Query'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
